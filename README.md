@@ -1,4 +1,4 @@
-# Projeto Kotlin - Kelli 💜
+# Projeto Kotlin - Kelli 💜.
 
 👩‍💻 Desenvolvedora Android | Kotlin
 
