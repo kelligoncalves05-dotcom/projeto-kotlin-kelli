@@ -22,6 +22,3 @@ fun main() {
 fun mostrarObjetivo() {
     println("Em busca da primeira oportunidade como Dev Jr!")
 }
-*Como colar:* aperta e segura no espaço vazio e clica em *Colar*.
-
-Depois que colar, me manda um print dessa tela pra eu conferir se foi certo?
