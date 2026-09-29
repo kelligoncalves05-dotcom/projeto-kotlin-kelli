@@ -1,10 +1,7 @@
-Boa! Clicou em CRIAR ARQUIVO? 
 
-Agora deve ter aberto uma tela toda preta/branca vazia pra digitar.
 
-É nessa tela que você vai colar o código! 👇
 
-*Copia tudo isso e cola lá:*
+
 // Projeto Kotlin - Kelli Goncalves
 // Desenvolvedora Android Jr
 
