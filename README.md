@@ -1,13 +1,17 @@
-### Olá, eu sou a Kelli Gonçalves! 👋
+# 📱 App de Tarefas - Kotlin
 
-Desenvolvedora Mobile Android | Kotlin
-Em busca da primeira oportunidade como Dev Jr
+Meu primeiro app Android em Kotlin - lista de tarefas simples.
 
-🌱 Estudando: Kotlin, Android Studio, Git, RecyclerView, Room
-💼 Background em Gestão Comercial
-📍 Sidrolândia-MS | Remota | ADS em andamento
+### 🚀 Tecnologias:
+- Kotlin
+- Android Studio
+- RecyclerView
+- Git & GitHub
 
-### 🔧 Techs:
-Kotlin | Android Studio | Git | GitHub | Firebase
+### ✨ Funcionalidades:
+- Adicionar tarefa
+- Listar tarefas
+- Editar e Deletar (em desenvolvimento)
 
-📫 Me chama no LinkedIn: https://www.linkedin.com/in/kelli-tatiane-8a8694320
+### 👩‍💻 Desenvolvido por Kelli Gonçalves
+Em transição de Gestão Comercial para Dev Mobile Android
