@@ -1,31 +1,28 @@
-📱 App de Tarefas - Kotlin
+# 🔐 Sistema de Cadastro e Login - Python
 
-Meu primeiro app Android em Kotlin - lista de tarefas simples.
-Projeto criado como parte da minha transição de Gestão Comercial para Dev Android.
+Meu primeiro sistema completo feito no celular com Pydroid 3!
 
-🚀 Tecnologias:
-- Kotlin
-- Android Studio
-- data class, List e MutableList
+Projeto criado como parte da minha transição de Gestão Comercial / Inside Sales para Dev - cursando ADS.
+
+### 🚀 Tecnologias:
+- Python
+- Pydroid 3
+- Validação de e-mail e senha
+- Estrutura de dados com List e Dict
 - Git & GitHub
 
-✨ Funcionalidades:
-- ✅ Marcar tarefa como concluída
-- ⏳ Listar tarefas com status
-- 🔄 Adicionar novas tarefas (Main.kt)
-- 📝 Em desenvolvimento: Editar e Deletar com RecyclerView
+### ✨ Funcionalidades:
+- ✅ Cadastrar novo usuário com validação
+- ✅ Impedir e-mail duplicado
+- ✅ Login com autenticação
+- ✅ Listar usuários cadastrados
+- ✅ Validação de senha (mínimo 6 caracteres)
 
-💡 O que aprendi:
-- Estrutura de dados com data class Tarefa
-- Controle de fluxo com for e if
-- Organização de código em funções
+### 💡 O que aprendi:
+- Estrutura de dados e controle de fluxo com for e if
+- Organização do código em funções
+- Validação de dados do usuário
+- Que dá pra programar de qualquer lugar, até do celular!
 
-👩‍💻 Desenvolvida por Kelli Gonçalves
-Em transição de Gestão Comercial para Dev Mobile Android
-📍 Em busca da primeira oportunidade como Dev Jr Android
-🔗 github.com/kelligoncalves05
-
-Como rodar:
-1. Clone o repositório
-2. Abra no Android Studio
-3. Execute o Main.kt
+Feito por Kelli Tatiane 💜
+Em transição de carreira para Tecnologia
