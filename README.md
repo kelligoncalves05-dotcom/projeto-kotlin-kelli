@@ -29,3 +29,11 @@ Estrutura de dados e controle de fluxo com for e if, funções, validações e v
 ---
 Feito por Kelli Tatiane - Sidrolândia, MS
 Em transição de carreira para Dev - Desenvolvendo 100% pelo celular.
+---
+
+### 📂 Novos Projetos - Módulos Financeiros:
+
+**2. comissao.py** - Cálculo de comissão (5% até R$1000, 10% acima)
+**3. estoque.py** - Controle de estoque com alerta de baixo estoque
+**4. juros.py** - Calculadora de juros compostos
+**5. main.py** - Cadastro com validação de nome, telefone e e-mail
