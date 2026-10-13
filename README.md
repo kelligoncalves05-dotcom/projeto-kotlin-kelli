@@ -27,5 +27,5 @@ Projeto criado como parte da minha transição de Gestão Comercial / Inside Sal
 Estrutura de dados e controle de fluxo com for e if, funções, validações e versionamento Git pelo celular.
 
 ---
-Feito por Kelli Gonçalves - Sidrolândia, MS
+Feito por Kelli Tatiane - Sidrolândia, MS
 Em transição de carreira para Dev - Desenvolvendo 100% pelo celular.
